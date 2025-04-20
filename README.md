@@ -1,0 +1,1 @@
+# Automa-o-de-E-mails-com-Imagens-Base64-e-Disparo-por-Data-no-Power-Automate
