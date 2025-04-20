@@ -1,0 +1,21 @@
+<table cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td>
+                <img src="data:image/png;base64,@{outputs('Compor_Imagem1')}" alt="Imagem 1" width="600" style="max-width:100%; height:auto; display:block;">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://seudominio.com/link-da-imagem">
+                    <img src="data:image/png;base64,@{outputs('Compor_Imagem2')}" alt="Imagem 2" width="600" style="max-width:100%; height:auto; display:block;">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="data:image/png;base64,@{outputs('Compor_Imagem3')}" alt="Imagem 3" width="600" style="max-width:100%; height:auto; display:block;">
+            </td>
+        </tr>
+    </tbody>
+</table>
