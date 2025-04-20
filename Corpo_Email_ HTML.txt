@@ -1,0 +1,20 @@
+<p class="editor-paragraph"></p>
+<table cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td>
+                <img src="data:image/png;base64,incluir a saída" alt="Imagem 1" width="600" style="max-width:100%; height:auto; display:block;">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="Incluir o link para a imagem meio">
+                    <img src="data:image/png;base64,incluir a saída" alt="Imagem 2" width="600" style="max-width:100%; height:auto; display:block;">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="data:image/png;base64,incluir a saída" alt="Imagem 3" width="600" style="max-width:100%; height:auto; display:block;">
+            </td>
+        </tr></tbody></table>
